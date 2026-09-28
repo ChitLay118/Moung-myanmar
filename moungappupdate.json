@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0.0",
-  "updateUrl": "https://github.com/ChitLay118/Moung-myanmar/releases/download/Version3/Moung.v3.apk",
-  "releaseNotes": "- နောက်ခံပုံများပြောင်းလဲနိုင်ခြင်း\n- အသံများဖမ်းယူသိမ်းနိုင်ခြင်း\n- screen Error များ ပြင်ဆင်ထားခြင်း\n- ပတ်ဝိုင်း,ခြောက်လုံးပတ်,drumများထည့်သွင်းထားခြင်း"
+  "versionCode": 4,
+  "versionName": "4.0.0",
+  "updateUrl": "https://github.com/ChitLay118/Moung-myanmar/releases/download/version4/version4.0.0novanex.apk",
+  "releaseNotes": "- ပတ်ဝိုင်းအားဖြုတ်ထားခြင်း။\n- channelများထပ်ထည့်သွားမည်။\n- Channelများတချို့ထည့်သွင်းထားခြင်း။\n- မောင်းများနေရာရွေ့နိုင်ခြင်း။"
 }
