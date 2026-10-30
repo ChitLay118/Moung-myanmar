@@ -7,7 +7,7 @@
   },
   {
     "title": "DVB",
-    "thumb": "",
+    "thumb": "https://raw.githubusercontent.com/ChitLay118/Moung-myanmar/refs/heads/main/Channelicon/images.jpeg",
     "src": "https://live-stream.dvb.no/hls/stream_src/index.m3u8"
   },
   {
