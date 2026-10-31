@@ -11,12 +11,12 @@
     "src": "https://live-stream.dvb.no/hls/stream_src/index.m3u8"
   },
   {
-    "title": "beIN Sports XTRA",
+    "title": "beIN Sports(အားကစား)",
     "thumb": "https://i.ibb.co/RpK1CpD5/images-10.jpg",
     "src": "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8"
   },
   {
-    "title": "beIN Sports XTRA-n",
+    "title": "beIN Sports(အားကစား)",
     "thumb": "https://i.ibb.co/RpK1CpD5/images-10.jpg",
     "src": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8"
   },
@@ -78,7 +78,7 @@
   
 
   {
-    "title": "Persiana Fight",
+    "title": "Fight(လက်ဝှေ့ )",
     "thumb": "https://i.ibb.co/KjWMhVsg/play-store-512.png",
     "src": "https://fighthls.persiana.live/hls/stream.m3u8"
   },
